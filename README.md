@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="icons/icon-192.png" alt="Shank" width="20%">
+<img width="616" height="353" alt="capsule_616x353" src="https://github.com/user-attachments/assets/54108a00-ed00-4292-a191-c0c96868cc35" />
 
 </div>
 <h1 align=center>shank1-nx installer</h1>
@@ -13,6 +13,11 @@ gives you a zip ready to extract into `sdmc:/switch/`. Everything runs in your b
 your computer.
 
 ## What it does
+
+<div align=center>
+<img width="240" height="224" alt="spider-man-tobey-maguire" src="https://github.com/user-attachments/assets/5fa01c77-f0cd-49c1-a133-7a2308bfc8e1" />
+</div>
+
 
 1. Finds the game in what you chose: its content package (from `Content/0000000000000000/58410A62/000D0000/`, read in
    place, nothing is extracted to disk), the `58410A62` folder of an Xbox 360's `Content` folder, or an extracted game
